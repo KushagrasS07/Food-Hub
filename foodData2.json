@@ -1,0 +1,103 @@
+[
+    {
+        "CategoryName":"Biryani/Rice",
+        "name":"Chicken Fried Rice",
+        "img":"https://www.marionskitchen.com/wp-content/uploads/2022/11/Thai-Chicken-Fried-Rice-03.jpg",
+        "options":{
+            "half":"130",
+            "full":"220"
+        },
+        "description":"Indian cuisine is diverse, flavorful, and rich in spices, featuring curries, tandoori, biryanis, and regional specialties."
+    },
+    
+    {
+        "CategoryName":"Biryani/Rice",
+        "name":"Veg Pulao(Fried)",
+        "img":"https://tse2.mm.bing.net/th?id=OIP.PDEarGsxrhTJXsjK2-17uQHaHa&pid=Api&P=0&h=180",
+        "options":{
+            "half":"110",
+            "full":"180"
+        },
+        "description":"Indian cuisine is diverse, flavorful, and rich in spices, featuring curries, tandoori, biryanis, and regional specialties."
+    },
+
+    {
+        "CategoryName":"Biryani/Rice",
+        "name":"Muradabadi Biryani",
+        "img":"https://recipes.timesofindia.com/thumb/69038542.cms?imgsize=563452&width=800&height=800",
+        "options":{
+            "half":"120",
+            "full":"240"
+        },
+        "description":"Indian cuisine is diverse, flavorful, and rich in spices, featuring curries, tandoori, biryanis, and regional specialties."
+    },
+
+    {
+        "CategoryName":"Starter",
+        "name":"Paneer Tikka",
+        "img":"https://tse2.mm.bing.net/th?id=OIP.PWOk0YdDJ4q5ClEWUw1f3QHaFp&pid=Api&P=0&h=180",
+        "options":{
+            "half":"160",
+            "full":"320"
+        },
+        "description":"Indian cuisine is diverse, flavorful, and rich in spices, featuring curries, tandoori, biryanis, and regional specialties."
+    },
+
+    {
+        "CategoryName":"Starter",
+        "name":"Chicken Tikka",
+        "img":"https://tse2.mm.bing.net/th?id=OIP.3vn7sNOHMMdHKn5u3606kQHaJ4&pid=Api&P=0&h=180",
+        "options":{
+            "half":"150",
+            "full":"320"
+        },
+        "description":"Indian cuisine is diverse, flavorful, and rich in spices, featuring curries, tandoori, biryanis, and regional specialties."
+    },
+
+    {
+        "CategoryName":"Starter",
+        "name":"Chilli Pototo",
+        "img":"https://www.indianhealthyrecipes.com/wp-content/uploads/2015/09/chilli-potato-recipe-1-500x500.jpg",
+        "options":{
+            "half":"100",
+            "full":"180"
+        },
+        "description":"Indian cuisine is diverse, flavorful, and rich in spices, featuring curries, tandoori, biryanis, and regional specialties."
+    },
+
+    {
+        "CategoryName":"Pizza",
+        "name":"Chicken Tikka Pizza",
+        "img":"https://tse3.mm.bing.net/th?id=OIP.tVJA_OSR3ggOqjKvGzTj3AHaLH&pid=Api&P=0&h=180",
+        "options":{
+            "small":"160",
+            "medium":"280",
+            "large":"440"
+        },
+        "description":"Indian cuisine is diverse, flavorful, and rich in spices, featuring curries, tandoori, biryanis, and regional specialties."
+    },
+
+    {
+        "CategoryName":"Pizza",
+        "name":"Paneer Tikka Pizza",
+        "img":"https://tse2.mm.bing.net/th?id=OIP.F8wqGlrXzQ8sf1KZHCUcPAHaHY&pid=Api&P=0&h=180",
+        "options":{
+            "small":"140",
+            "medium":"270",
+            "large":"420"
+        },
+        "description":"Indian cuisine is diverse, flavorful, and rich in spices, featuring curries, tandoori, biryanis, and regional specialties."
+    },
+
+    {
+        "CategoryName":"Pizza",
+        "name":"FarmHouse",
+        "img":"https://tse3.mm.bing.net/th?id=OIP.x4NPO0ihQv0A1Z1BgeBWNAHaHa&pid=Api&P=0&h=180",
+        "options":{
+            "small":"100",
+            "medium":"250",
+            "large":"360"
+        },
+        "description":"Indian cuisine is diverse, flavorful, and rich in spices, featuring curries, tandoori, biryanis, and regional specialties."
+    }
+]
